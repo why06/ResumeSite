@@ -1,5 +1,5 @@
 const ProfileCard = () => (
-  <div class="bg-gray-200 p-2 w-full sm:w-64 flex justify-left flex-wrap m-2">
+  <div class="bg-gray-200 p-2 w-full sm:h-full flex justify-left flex-wrap">
     <div class="flex justify-center w-full mb-4">
       <img
         src="/DrMario64.webp"

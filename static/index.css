@@ -1,0 +1,5 @@
+.height-adjustment{
+  @media(min-width: 640px){ 
+    height: calc(100vh - 0.5rem - 2px);
+  }
+};
