@@ -44,6 +44,9 @@ const Resume = () => (
       <div class={"flex"}>
         <ProfileCard />
         <TitleCard />
+        <div>Job History</div>
+        <div>Education</div>
+        <div>Hobbies & Interests</div>
       </div>
     </body>
   </>
