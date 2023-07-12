@@ -3,7 +3,7 @@ const ProfileCard = () => (
     <div class="flex justify-center w-full mb-4">
       <img
         src="/DrMario64.webp"
-        class="h-64 w-48 object-cover object-top bg-white"
+        class="h-64 w-48 object-cover object-top bg-white drop-shadow-lg rounded-md"
       />
     </div>
     <h4 class="w-full text-2xl">Shaun J. Carter</h4>
